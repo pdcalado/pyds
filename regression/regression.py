@@ -13,3 +13,13 @@ y = boston['MEDV'].values
 reg.fit(X_rooms, y)
 
 prediction_space = np.linspace(min(X_rooms), max(X_rooms).reshape(-1, 1))
+
+y_pred = reg.predict(X_test)
+
+reg.score(X_test, y_test)
+
+plt.scatter(X_rooms, y)
+
+# labels..
+
+plt.show()
