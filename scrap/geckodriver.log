@@ -1,0 +1,231 @@
+1510269744820	geckodriver	INFO	geckodriver 0.19.0
+1510269744824	geckodriver	INFO	Listening on 127.0.0.1:41059
+1510269745868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.x77dJxu0HSDI"
+1510269746115	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510269746410	Marionette	INFO	Enabled via --marionette
+1510269747493	Marionette	INFO	Listening on port 37649
+1510269747637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510269747678	Marionette	DEBUG	Register listener.js for window 2147483649
+1510269747720	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510269747983	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510269747984	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510269748398	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1510269748486	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+1510269940590	geckodriver	INFO	geckodriver 0.19.0
+1510269940594	geckodriver	INFO	Listening on 127.0.0.1:54227
+1510269941640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DxV2JXvWgsBc"
+1510269941900	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510269942198	Marionette	INFO	Enabled via --marionette
+1510269943286	Marionette	INFO	Listening on port 38245
+1510269943431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510269943485	Marionette	DEBUG	Register listener.js for window 2147483649
+1510269943536	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510269945754	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510269945756	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510269945870	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510269946011	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510269959739	geckodriver	INFO	geckodriver 0.19.0
+1510269959743	geckodriver	INFO	Listening on 127.0.0.1:52429
+1510269960786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aobQQJFWzHs5"
+1510269961037	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510269961336	Marionette	INFO	Enabled via --marionette
+1510269962429	Marionette	INFO	Listening on port 34577
+1510269962587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510269962630	Marionette	DEBUG	Register listener.js for window 2147483649
+1510269962670	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510269964170	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510269964170	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510269964284	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510269964404	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510270459753	geckodriver	INFO	geckodriver 0.19.0
+1510270459756	geckodriver	INFO	Listening on 127.0.0.1:50221
+1510270460793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oZ79WmL20lB8"
+1510270461042	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510270461328	Marionette	INFO	Enabled via --marionette
+1510270462405	Marionette	INFO	Listening on port 41613
+1510270462560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510270462602	Marionette	DEBUG	Register listener.js for window 2147483649
+1510270462722	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510270464032	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510270464033	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510270464186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510270464253	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510270483031	geckodriver	INFO	geckodriver 0.19.0
+1510270483035	geckodriver	INFO	Listening on 127.0.0.1:34621
+1510270484081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mmiQc4UzE0Lu"
+1510270484335	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510270484625	Marionette	INFO	Enabled via --marionette
+1510270485728	Marionette	INFO	Listening on port 44657
+1510270485799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510270485840	Marionette	DEBUG	Register listener.js for window 2147483649
+1510270485912	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510270487391	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510270487391	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510270487506	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510270487610	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510270832596	geckodriver	INFO	geckodriver 0.19.0
+1510270832600	geckodriver	INFO	Listening on 127.0.0.1:35877
+1510270833655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1ldowzJidTdV"
+1510270833914	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510270834207	Marionette	INFO	Enabled via --marionette
+1510270835301	Marionette	INFO	Listening on port 37281
+1510270835437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510270835489	Marionette	DEBUG	Register listener.js for window 2147483649
+1510270835544	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510270837628	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510270837628	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510270837751	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510270837849	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510270881769	geckodriver	INFO	geckodriver 0.19.0
+1510270881773	geckodriver	INFO	Listening on 127.0.0.1:37923
+1510270882817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.t3mmhHcg2m5G"
+1510270883064	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510270883363	Marionette	INFO	Enabled via --marionette
+1510270884450	Marionette	INFO	Listening on port 36233
+1510270884534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510270884576	Marionette	DEBUG	Register listener.js for window 2147483649
+1510270902698	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510270904751	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510270904752	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510270904881	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510270904994	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510332458604	geckodriver	INFO	geckodriver 0.19.0
+1510332458616	geckodriver	INFO	Listening on 127.0.0.1:42859
+1510332459798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yvy1yVbrf07r"
+1510332460281	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510332460683	Marionette	INFO	Enabled via --marionette
+1510332462151	Marionette	INFO	Listening on port 41747
+1510332462221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510332462265	Marionette	DEBUG	Register listener.js for window 2147483649
+1510332462291	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510332464592	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510332464593	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510332464710	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510332464831	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510332724753	geckodriver	INFO	geckodriver 0.19.0
+1510332724758	geckodriver	INFO	Listening on 127.0.0.1:38353
+1510332725803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LxUThfV9tJt5"
+1510332726063	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510332726353	Marionette	INFO	Enabled via --marionette
+1510332727492	Marionette	INFO	Listening on port 44937
+1510332727522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510332727567	Marionette	DEBUG	Register listener.js for window 2147483649
+1510332739384	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510332739781	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510332739782	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510332739792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotaoes.aspx"
+1510332739811	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotaoes.aspx"
+1510332758781	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.caixagest.pt/fundos_cotaoes.aspx"
+1510332759900	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.caixagest.pt/fundos_cotaoes.aspx"
+1510332759900	Marionette	DEBUG	Received DOM event "unload" for "https://www.caixagest.pt/fundos_cotaoes.aspx"
+1510332760022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510332760079	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510333859485	geckodriver	INFO	geckodriver 0.19.0
+1510333859490	geckodriver	INFO	Listening on 127.0.0.1:36097
+1510333860537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NoYZXeT852Iw"
+1510333860793	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510333861089	Marionette	INFO	Enabled via --marionette
+1510333862193	Marionette	INFO	Listening on port 34015
+1510333862259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510333862307	Marionette	DEBUG	Register listener.js for window 2147483649
+1510333862385	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510333864269	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510333864270	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510333864384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510333864485	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510333882058	geckodriver	INFO	geckodriver 0.19.0
+1510333882061	geckodriver	INFO	Listening on 127.0.0.1:60567
+1510333883105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.R0p98Qa80EOi"
+1510333883363	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510333883658	Marionette	INFO	Enabled via --marionette
+1510333884747	Marionette	INFO	Listening on port 38255
+1510333884822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510333884869	Marionette	DEBUG	Register listener.js for window 2147483649
+1510333884955	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510333886049	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510333886050	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510333886162	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510333886260	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510334402705	geckodriver	INFO	geckodriver 0.19.0
+1510334402709	geckodriver	INFO	Listening on 127.0.0.1:47131
+1510334403754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eEjgWIoZ8wfC"
+1510334404021	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510334404319	Marionette	INFO	Enabled via --marionette
+1510334405445	Marionette	INFO	Listening on port 33985
+1510334405475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510334405523	Marionette	DEBUG	Register listener.js for window 2147483649
+1510334405624	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510334406950	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510334406951	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510334407066	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510334407169	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510334459497	geckodriver	INFO	geckodriver 0.19.0
+1510334459500	geckodriver	INFO	Listening on 127.0.0.1:37193
+1510334460548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QcK4tx8BMQsC"
+1510334460797	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510334461096	Marionette	INFO	Enabled via --marionette
+1510334462386	Marionette	INFO	Listening on port 33035
+1510334462472	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510334462514	Marionette	DEBUG	Register listener.js for window 2147483649
+1510334462544	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510334464447	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510334464447	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510334464604	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510334464682	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510334498567	geckodriver	INFO	geckodriver 0.19.0
+1510334498570	geckodriver	INFO	Listening on 127.0.0.1:38933
+1510334499616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LvaDQFCmKvLg"
+1510334499867	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510334500165	Marionette	INFO	Enabled via --marionette
+1510334501285	Marionette	INFO	Listening on port 43599
+1510334501343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510334501391	Marionette	DEBUG	Register listener.js for window 2147483649
+1510334501481	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510334503373	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510334503373	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510334503488	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510334503617	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510334604091	geckodriver	INFO	geckodriver 0.19.0
+1510334604095	geckodriver	INFO	Listening on 127.0.0.1:54277
+1510334605150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gjjWGbAKbOP1"
+1510334605409	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510334605701	Marionette	INFO	Enabled via --marionette
+1510334606832	Marionette	INFO	Listening on port 41613
+1510334606941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510334606990	Marionette	DEBUG	Register listener.js for window 2147483649
+1510334607023	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510334608197	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510334608197	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510334608304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510334608415	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510334674605	geckodriver	INFO	geckodriver 0.19.0
+1510334674608	geckodriver	INFO	Listening on 127.0.0.1:48987
+1510334675659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gaDDCk1AkHT3"
+1510334685887	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510334686185	Marionette	INFO	Enabled via --marionette
+1510334687270	Marionette	INFO	Listening on port 35511
+1510334687326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510334687369	Marionette	DEBUG	Register listener.js for window 2147483649
+1510334687468	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510334697188	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510334697189	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510334697318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510334697474	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510334766737	geckodriver	INFO	geckodriver 0.19.0
+1510334766741	geckodriver	INFO	Listening on 127.0.0.1:53093
+1510334767785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.US0WnnT4vPbJ"
+1510334768043	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510334768329	Marionette	INFO	Enabled via --marionette
+1510334769420	Marionette	INFO	Listening on port 42329
+1510334769573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510334769629	Marionette	DEBUG	Register listener.js for window 2147483649
+1510334769665	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510334771254	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510334771254	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510334771369	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
+1510334771486	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.caixagest.pt/fundos_cotacoes.aspx"
